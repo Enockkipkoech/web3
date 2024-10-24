@@ -32,6 +32,7 @@
 ## SETUP
 
 1. Clone the Repository: [ TutorPlate ](git@github.com:Enockkipkoech/TutorPlate.git)
+   `git clone git@github.com:Enockkipkoech/TutorPlate.git`
 
 2. Run `npm install`
 3. Create a `.env` file and add the following
@@ -45,3 +46,8 @@ PRIVATE_KEY=YOUR_PRIVATE_KEY
 ```
 
 4. Run `npm start`
+
+## RESOURCES
+
+1. Web3Js: [Web3Js](https://docs.web3js.org/)
+2. EthersJs: [EthersJs](https://docs.ethers.org/v5/)
